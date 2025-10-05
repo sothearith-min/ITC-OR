@@ -65,7 +65,7 @@ In this course, we will learn how to solve complex decision-making problems usin
 
 | Week | Slides | TD | Solution |
 |------|--------|-----|----------|
-| Week 1 | [*Slides*](Slides\Week_1\index.html) | [*TD*](Slides\TD\TD___Week_1.pdf) | *To be released* |
+| Week 1 | [*Slides*](https://sothearith-min.quarto.pub/operation-research/#/title-slide) | [*TD*](Slides\TD\TD___Week_1.pdf) | *To be released* |
 | Week 2 | Loading... | Loading... | Loading... |
 | Week 3 | Loading... | Loading... | Loading... |
 | Week 4 | Loading... | Loading... | Loading... |
