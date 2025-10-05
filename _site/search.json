@@ -1,103 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Operations Research",
-    "section": "",
-    "text": "Lecturer: Sothearith Min | Contact: https://sothearith-min.github.io/minsothearith.github.io/"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html#course-overview",
-    "href": "index.html#course-overview",
-    "title": "Operations Research",
-    "section": "📚 Course Overview",
-    "text": "📚 Course Overview\nOperations Research (OR) is the discipline of applying advanced analytical methods to help make better decisions. This course covers the essential tools and techniques used by organizations worldwide to optimize resources, improve efficiency, and solve complex problems."
-  },
-  {
-    "objectID": "index.html#course-objectives",
-    "href": "index.html#course-objectives",
-    "title": "Operations Research",
-    "section": "🎯 Course Objectives",
-    "text": "🎯 Course Objectives\nBy the end of this course, you will be able to:\n\nFormulate real-world problems as mathematical models\nApply optimization techniques to find optimal solutions\nUse computational tools to solve large-scale problems\nInterpret results and communicate insights effectively\nMake data-driven decisions in business and engineering contexts"
-  },
-  {
-    "objectID": "index.html#resources",
-    "href": "index.html#resources",
-    "title": "Operations Research",
-    "section": "📖 Resources",
-    "text": "📖 Resources\n\nRecommended Textbooks\n\nIntroduction to Operations Research by Hillier & Lieberman\nOperations Research: Applications and Algorithms by Wayne Winston\n\n\n\nSoftware Tools\n\nPython"
-  },
-  {
-    "objectID": "index.html#contact-office-hours",
-    "href": "index.html#contact-office-hours",
-    "title": "Operations Research",
-    "section": "📧 Contact & Office Hours",
-    "text": "📧 Contact & Office Hours\nInstructor: [SOthearith Min]\nEmail: [min.sothearith@itc.edu.kh]\n—\n\n\n\n\n\n\n💡 Getting Started\n\n\n\nReady to begin? Check the syllabus and join our first class to dive into the fascinating world of optimization!"
-  },
-  {
-    "objectID": "index.html#course-information",
-    "href": "index.html#course-information",
-    "title": "Operations Research",
-    "section": "📚 Course Information",
-    "text": "📚 Course Information\nCredits: 3 (Course = 2, TD = 1, TP = 0)\nCourse Hours: 32 hours per semester\nTutorial (TD): 32 hours per semester\n\nAssessment Breakdown\n\nAttendance: 10%\nAssignment: 10%\nClass Activities: 10%\nMid-term Exam: 30%\nFinal Exam: 40%"
-  },
-  {
-    "objectID": "index.html#reference-textbooks",
-    "href": "index.html#reference-textbooks",
-    "title": "Operations Research",
-    "section": "📖 Reference Textbooks",
-    "text": "📖 Reference Textbooks\n\nTaha, H. A. (2017). Operations Research: An Introduction (10th ed.). Pearson.\nHillier, F. S., Lieberman, G. J. (2021). Introduction to Operations Research (11th ed.). McGraw-Hill Education.\nBaker, K. R., Trietsch, D. (2009). Principles of Sequencing and Scheduling. John Wiley & Sons."
-  },
-  {
-    "objectID": "index.html#course-content",
-    "href": "index.html#course-content",
-    "title": "Operations Research",
-    "section": "📅 Course Content",
-    "text": "📅 Course Content\n\nChapter 1: Linear Programming and Simplex Method (4 hours)\n1.1 Introduction to OR\n\nDefinition and Scope of Applications\n\n1.2 Review of LP\n\nObjective Function, Decision Variables, Constraints\nStandard Form\nGraphical Solution\n\n1.3 The Simplex Method\n\nConcept of Simplex\nPractices of Simplex Method\nSensitivity Analysis\n\n\n\n\nChapter 2: Transportation and Assignment Problems (8 hours)\n2.1 Transportation\n\nIntroduction\nBalanced vs Unbalanced Problems\nInitial Feasible Solution: Northwest Corner Rule\nOptimality Test: MODI / Stepping Stone\nMaximization Case\nDegeneracy\nTime Minimization\nTransshipment Problem\nRedundancy\n\n2.2 Assignment\n\nIntroduction\nComparison with Transportation Problem\nFormulation of Assignment Problem\nHungarian Method\nApplications: Scheduling Problem\n\n\n\n\nChapter 3: Sequencing and Queuing Models (8 hours)\n3.1 Sequencing Models\nSingle Machine Sequencing\n\nPriority Rules: FCFS, SPT, EDD\nApplying Priority Rules to Determine Sequence\n\nN Jobs on M Machines\n\nFormulation\nExact and Heuristic Solutions\n\n3.2 Queuing Models\nM/M/1 Queue\n\nSystem Components: λ, μ, ρ\nPerformance Measures: L, Lq, W, Wq\n\nM/M/c Queue\n\nMulti-Server System\nUtilization and Performance Measures\nErlang-C Formula\n\n\n\n\nChapter 4: Replacement and Staffing Problems (6 hours)\n4.1 Replacement\n\nFailure Mechanisms of Items\nGradual Efficiency Loss vs Sudden Failure\nGeneral Approaches to Replacement\nReplacement with Increasing Maintenance Costs\nPresent Value Criteria\nSudden Failure of Expensive Items\n\n4.2 Staffing\n\nIntroduction and Importance\nStaff Rotation Scheduling\nApplication of Replacement Methods to Staff\nOptimal Staffing Levels\nCase Studies / Examples\n\n\n\n\nChapter 5: Game Theory (6 hours)\n5.1 Introduction to Game Theory\n\nConcept, Scope and Applications\nTypes of Games: Zero-Sum, Non-Zero-Sum, Cooperative, Non-Cooperative\n\n5.2 Solution Methods\n\nPayoff Matrix\nPure Strategies and Dominance Rule\n\n5.3 Mixed Strategies\n\nGames without Saddle Point\nNash Equilibrium (Introductory)\n\n5.4 Applications of Game Theory\n\nApplications in Business\nApplications in Economics\nApplications in Operations\n\n\n\n\n\n\n\n\n💡 Getting Started\n\n\n\nReady to begin? Review the syllabus and prepare for an exciting journey through optimization and decision science!"
-  },
-  {
-    "objectID": "index.html#contact-information",
-    "href": "index.html#contact-information",
-    "title": "Operations Research",
-    "section": "📧 Contact Information",
-    "text": "📧 Contact Information\nInstructor: [Your Name]\nEmail: [your.email@university.edu]\nOffice Hours: [Days & Times]\nLocation: [Room Number]"
-  },
-  {
-    "objectID": "index.html#grading-criteria",
-    "href": "index.html#grading-criteria",
-    "title": "Operations Research",
-    "section": "📊 Grading Criteria",
-    "text": "📊 Grading Criteria\n\n\n\nComponent\nWeight\n\n\n\n\nAttendance\n10%\n\n\nAssignment\n10%\n\n\nClass Activities\n10%\n\n\nMid-term Exam\n30%\n\n\nFinal Exam\n40%"
-  },
-  {
-    "objectID": "index.html#references",
-    "href": "index.html#references",
-    "title": "Operations Research",
-    "section": "📖 References",
-    "text": "📖 References\n\nTaha, H. A. (2017). Operations Research: An Introduction (10th ed.). Pearson.\nHillier, F. S., Lieberman, G. J. (2021). Introduction to Operations Research (11th ed.). McGraw-Hill Education.\nBaker, K. R., Trietsch, D. (2009). Principles of Sequencing and Scheduling. John Wiley & Sons."
-  },
-  {
-    "objectID": "index.html#course-resources",
-    "href": "index.html#course-resources",
-    "title": "Operations Research",
-    "section": "📚 Course Resources",
-    "text": "📚 Course Resources\n\n\n\nWeek\nSlides\nTD\nSolution\n\n\n\n\nWeek 1\nSlides\nTD\nTo be released\n\n\nWeek 2\nLoading…\nLoading…\nLoading…\n\n\nWeek 3\nLoading…\nLoading…\nLoading…\n\n\nWeek 4\nLoading…\nLoading…\nLoading…\n\n\nWeek 5\nLoading…\nLoading…\nLoading…\n\n\nWeek 6\nLoading…\nLoading…\nLoading…\n\n\nWeek 7\nLoading…\nLoading…\nLoading…\n\n\nWeek 8\nLoading…\nLoading…\nLoading…\n\n\nWeek 9\nLoading…\nLoading…\nLoading…\n\n\nWeek 10\nLoading…\nLoading…\nLoading…\n\n\nWeek 11\nLoading…\nLoading…\nLoading…\n\n\nWeek 12\nLoading…\nLoading…\nLoading…\n\n\nWeek 13\nLoading…\nLoading…\nLoading…\n\n\nWeek 14\nLoading…\nLoading…\nLoading…\n\n\nWeek 15\nLoading…\nLoading…\nLoading…\n\n\nWeek 16\nLoading…\nLoading…\nLoading…"
-  },
-  {
-    "objectID": "index.html#learning-hours",
-    "href": "index.html#learning-hours",
-    "title": "Operations Research",
-    "section": "⏰ Learning Hours",
-    "text": "⏰ Learning Hours\nCredits: 3 (Course = 2, TD = 1, TP = 0)\nCourse Hours: 32 hours per semester\nTutorial (TD): 32 hours per semester\n📄 Download Course Syllabus"
-  },
-  {
     "objectID": "Slides/Week_1/index.html#course-overview",
     "href": "Slides/Week_1/index.html#course-overview",
     "title": "Operation Research",
@@ -413,6 +315,20 @@
     "text": "Graphical Method\nOptimal Solution\n\n\n\n\n\n\nFinal Answer\n\n\nOptimal Production Plan: - Produce \\(x_1^* = 40\\) units of Product A - Produce \\(x_2^* = 20\\) units of Product B\nMaximum Profit: \\(Z^* = \\$2000\\)\nResource Utilization: - Machine 1: \\(2(40) + 20 = 100\\) hours ✓ (fully used) - Machine 2: \\(40 + 2(20) = 80\\) hours ✓ (fully used)\nBoth machines are binding constraints (fully utilized)."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Operations Research",
+    "section": "",
+    "text": "Lecturer: Sothearith Min | Contact: https://sothearith-min.github.io/minsothearith.github.io/"
+  },
+  {
     "objectID": "index.html#introduction",
     "href": "index.html#introduction",
     "title": "Operations Research",
@@ -420,32 +336,32 @@
     "text": "📘 Introduction\nIn this course, we will learn how to solve complex decision-making problems using mathematical optimization techniques. We will explore linear programming, transportation and assignment models, queuing systems, scheduling algorithms, and game theory to make better decisions in real-world scenarios."
   },
   {
-    "objectID": "index.html#did-you-know",
-    "href": "index.html#did-you-know",
+    "objectID": "index.html#learning-hours",
+    "href": "index.html#learning-hours",
     "title": "Operations Research",
-    "section": "🧩 Did You Know?",
-    "text": "🧩 Did You Know?\nThe name “Operations Research” comes from military operations—but today, it quietly helps decide everything from Uber routes to Netflix recommendations. You’re learning tools that shape the world, one optimal solution at a time! ⚡"
+    "section": "⏰ Learning Hours",
+    "text": "⏰ Learning Hours\nCredits: 3 (Course = 2, TD = 1, TP = 0)\nCourse Hours: 32 hours per semester\nTutorial (TD): 32 hours per semester\n📄 Download Course Syllabus"
   },
   {
-    "objectID": "index.html#questions-or-concerns",
-    "href": "index.html#questions-or-concerns",
+    "objectID": "index.html#grading-criteria",
+    "href": "index.html#grading-criteria",
     "title": "Operations Research",
-    "section": "📬 Questions or Concerns?",
-    "text": "📬 Questions or Concerns?\nFeel free to reach out anytime!"
+    "section": "📊 Grading Criteria",
+    "text": "📊 Grading Criteria\n\n\n\nComponent\nWeight\n\n\n\n\nAttendance\n10%\n\n\nAssignment\n10%\n\n\nClass Activities\n10%\n\n\nMid-term Exam\n30%\n\n\nFinal Exam\n40%"
   },
   {
-    "objectID": "index.html#explore-operations-research",
-    "href": "index.html#explore-operations-research",
+    "objectID": "index.html#references",
+    "href": "index.html#references",
     "title": "Operations Research",
-    "section": "🎯 Explore Operations Research",
-    "text": "🎯 Explore Operations Research\n\n\n\n🗺️ Course Journey Map\n\n\n\n\n\ngraph TB\n    Start([Operations Research]) --&gt; CH1[Chapter 1: Linear Programming&lt;br/&gt;& Simplex Method&lt;br/&gt;4 hours]\n    Start --&gt; CH2[Chapter 2: Transportation&lt;br/&gt;& Assignment Problems&lt;br/&gt;8 hours]\n    Start --&gt; CH3[Chapter 3: Sequencing&lt;br/&gt;& Queuing Models&lt;br/&gt;8 hours]\n    Start --&gt; CH4[Chapter 4: Replacement&lt;br/&gt;& Staffing Problems&lt;br/&gt;6 hours]\n    Start --&gt; CH5[Chapter 5: Game Theory&lt;br/&gt;6 hours]\n    \n    CH1 --&gt; LP1[Introduction to OR]\n    CH1 --&gt; LP2[LP Review & Graphical Solution]\n    CH1 --&gt; LP3[Simplex Method]\n    CH1 --&gt; LP4[Sensitivity Analysis]\n    \n    CH2 --&gt; T1[Transportation Problems]\n    CH2 --&gt; T2[Assignment Problems]\n    T1 --&gt; T1a[Northwest Corner Rule]\n    T1 --&gt; T1b[MODI/Stepping Stone]\n    T1 --&gt; T1c[Special Cases]\n    T2 --&gt; T2a[Hungarian Method]\n    T2 --&gt; T2b[Scheduling Applications]\n    \n    CH3 --&gt; S1[Sequencing Models]\n    CH3 --&gt; Q1[Queuing Models]\n    S1 --&gt; S1a[Single Machine: FCFS, SPT, EDD]\n    S1 --&gt; S1b[N Jobs on M Machines]\n    Q1 --&gt; Q1a[M/M/1 Queue]\n    Q1 --&gt; Q1b[M/M/c Queue]\n    \n    CH4 --&gt; R1[Replacement Theory]\n    CH4 --&gt; ST1[Staffing Problems]\n    R1 --&gt; R1a[Gradual vs Sudden Failure]\n    R1 --&gt; R1b[Present Value Criteria]\n    ST1 --&gt; ST1a[Staff Rotation Scheduling]\n    ST1 --&gt; ST1b[Optimal Staffing Levels]\n    \n    CH5 --&gt; G1[Game Theory Concepts]\n    CH5 --&gt; G2[Solution Methods]\n    CH5 --&gt; G3[Applications]\n    G2 --&gt; G2a[Pure Strategies & Dominance]\n    G2 --&gt; G2b[Mixed Strategies & Nash Equilibrium]\n    \n    style Start fill:#e5ffe5,stroke:#333,stroke-width:3px\n    style CH1 fill:#cce5ff,stroke:#333,stroke-width:2px\n    style CH2 fill:#ffe5cc,stroke:#333,stroke-width:2px\n    style CH3 fill:#fff2cc,stroke:#333,stroke-width:2px\n    style CH4 fill:#ffccf2,stroke:#333,stroke-width:2px\n    style CH5 fill:#e5ccff,stroke:#333,stroke-width:2px"
+    "section": "📖 References",
+    "text": "📖 References\n\nTaha, H. A. (2017). Operations Research: An Introduction (10th ed.). Pearson.\nHillier, F. S., Lieberman, G. J. (2021). Introduction to Operations Research (11th ed.). McGraw-Hill Education.\nBaker, K. R., Trietsch, D. (2009). Principles of Sequencing and Scheduling. John Wiley & Sons."
   },
   {
-    "objectID": "index.html#course-journey-map",
-    "href": "index.html#course-journey-map",
+    "objectID": "index.html#course-resources",
+    "href": "index.html#course-resources",
     "title": "Operations Research",
-    "section": "🗺️ Course Journey Map",
-    "text": "🗺️ Course Journey Map\n\n\n\n\n\ngraph TB\n    Start([Operations Research]) --&gt; CH1[Chapter 1: Linear Programming&lt;br/&gt;& Simplex Method&lt;br/&gt;4 hours]\n    Start --&gt; CH2[Chapter 2: Transportation&lt;br/&gt;& Assignment Problems&lt;br/&gt;8 hours]\n    Start --&gt; CH3[Chapter 3: Sequencing&lt;br/&gt;& Queuing Models&lt;br/&gt;8 hours]\n    Start --&gt; CH4[Chapter 4: Replacement&lt;br/&gt;& Staffing Problems&lt;br/&gt;6 hours]\n    Start --&gt; CH5[Chapter 5: Game Theory&lt;br/&gt;6 hours]\n    \n    CH1 --&gt; LP1[Introduction to OR]\n    CH1 --&gt; LP2[LP Review & Graphical Solution]\n    CH1 --&gt; LP3[Simplex Method]\n    CH1 --&gt; LP4[Sensitivity Analysis]\n    \n    CH2 --&gt; T1[Transportation Problems]\n    CH2 --&gt; T2[Assignment Problems]\n    T1 --&gt; T1a[Northwest Corner Rule]\n    T1 --&gt; T1b[MODI/Stepping Stone]\n    T1 --&gt; T1c[Special Cases]\n    T2 --&gt; T2a[Hungarian Method]\n    T2 --&gt; T2b[Scheduling Applications]\n    \n    CH3 --&gt; S1[Sequencing Models]\n    CH3 --&gt; Q1[Queuing Models]\n    S1 --&gt; S1a[Single Machine: FCFS, SPT, EDD]\n    S1 --&gt; S1b[N Jobs on M Machines]\n    Q1 --&gt; Q1a[M/M/1 Queue]\n    Q1 --&gt; Q1b[M/M/c Queue]\n    \n    CH4 --&gt; R1[Replacement Theory]\n    CH4 --&gt; ST1[Staffing Problems]\n    R1 --&gt; R1a[Gradual vs Sudden Failure]\n    R1 --&gt; R1b[Present Value Criteria]\n    ST1 --&gt; ST1a[Staff Rotation Scheduling]\n    ST1 --&gt; ST1b[Optimal Staffing Levels]\n    \n    CH5 --&gt; G1[Game Theory Concepts]\n    CH5 --&gt; G2[Solution Methods]\n    CH5 --&gt; G3[Applications]\n    G2 --&gt; G2a[Pure Strategies & Dominance]\n    G2 --&gt; G2b[Mixed Strategies & Nash Equilibrium]\n    \n    style Start fill:#e5ffe5,stroke:#333,stroke-width:3px\n    style CH1 fill:#cce5ff,stroke:#333,stroke-width:2px\n    style CH2 fill:#ffe5cc,stroke:#333,stroke-width:2px\n    style CH3 fill:#fff2cc,stroke:#333,stroke-width:2px\n    style CH4 fill:#ffccf2,stroke:#333,stroke-width:2px\n    style CH5 fill:#e5ccff,stroke:#333,stroke-width:2px"
+    "section": "📚 Course Resources",
+    "text": "📚 Course Resources\n\n\n\nWeek\nSlides\nTD\nSolution\n\n\n\n\nWeek 1\nSlides\nTD\nTo be released\n\n\nWeek 2\nLoading…\nLoading…\nLoading…\n\n\nWeek 3\nLoading…\nLoading…\nLoading…\n\n\nWeek 4\nLoading…\nLoading…\nLoading…\n\n\nWeek 5\nLoading…\nLoading…\nLoading…\n\n\nWeek 6\nLoading…\nLoading…\nLoading…\n\n\nWeek 7\nLoading…\nLoading…\nLoading…\n\n\nWeek 8\nLoading…\nLoading…\nLoading…\n\n\nWeek 9\nLoading…\nLoading…\nLoading…\n\n\nWeek 10\nLoading…\nLoading…\nLoading…\n\n\nWeek 11\nLoading…\nLoading…\nLoading…\n\n\nWeek 12\nLoading…\nLoading…\nLoading…\n\n\nWeek 13\nLoading…\nLoading…\nLoading…\n\n\nWeek 14\nLoading…\nLoading…\nLoading…\n\n\nWeek 15\nLoading…\nLoading…\nLoading…\n\n\nWeek 16\nLoading…\nLoading…\nLoading…"
   },
   {
     "objectID": "index.html#computer-tools",
@@ -455,10 +371,10 @@
     "text": "💻 Computer Tools\nWe will use Python with libraries such as PuLP, SciPy, and NumPy for solving optimization problems throughout this course.\nGetting Started:\n\nInstall Jupyter Notebook\nAccess Google Colab (No installation needed!)"
   },
   {
-    "objectID": "index.html#computer-tools-1",
-    "href": "index.html#computer-tools-1",
+    "objectID": "index.html#questions-or-concerns",
+    "href": "index.html#questions-or-concerns",
     "title": "Operations Research",
-    "section": "💻 Computer Tools",
-    "text": "💻 Computer Tools\n\n\n&lt;a href=\"https://jupyter.org/\" target=\"_blank\"&gt;\n  &lt;img src=\"https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg\" alt=\"Jupyter\" style=\"height: 80px; margin-bottom: 10px;\"&gt;\n&lt;/a&gt;\n&lt;p style=\"margin: 0; font-weight: 500;\"&gt;Jupyter Notebook&lt;/p&gt;\n\n\n&lt;a href=\"https://colab.research.google.com/\" target=\"_blank\"&gt;\n  &lt;img src=\"https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg\" alt=\"Google Colab\" style=\"height: 80px; margin-bottom: 10px;\"&gt;\n&lt;/a&gt;\n&lt;p style=\"margin: 0; font-weight: 500;\"&gt;Google Colab&lt;/p&gt;\n\n\nWe will use Python with libraries such as PuLP, SciPy, and NumPy for solving optimization problems throughout this course.\nGetting Started:\n\nInstall Jupyter Notebook\nAccess Google Colab (No installation needed!)"
+    "section": "📬 Questions or Concerns?",
+    "text": "📬 Questions or Concerns?\nFeel free to reach out anytime!"
   }
 ]
