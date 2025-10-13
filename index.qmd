@@ -10,6 +10,7 @@ format:
     toc-depth: 2
     smooth-scroll: true
     page-layout: full
+output-dir: null
 ---
 
 ::: {.lecturer-info}
@@ -61,31 +62,6 @@ In this course, we will learn how to solve complex decision-making problems usin
 
 ------------------------------------------------------------------------
 
-## 📚 Course Resources
-
-| Week | Slides | TD | Solution |
-|------|--------|-----|----------|
-| Week 1 | [*Slides*](https://sothearith-min.quarto.pub/operation-research/#/title-slide) | [*TD*](Slides\TD\TD___Week_1.pdf) | *To be released* |
-| Week 2 | Loading... | Loading... | Loading... |
-| Week 3 | Loading... | Loading... | Loading... |
-| Week 4 | Loading... | Loading... | Loading... |
-| Week 5 | Loading... | Loading... | Loading... |
-| Week 6 | Loading... | Loading... | Loading... |
-| Week 7 | Loading... | Loading... | Loading... |
-| Week 8 | Loading... | Loading... | Loading... |
-| Week 9 | Loading... | Loading... | Loading... |
-| Week 10 | Loading... | Loading... | Loading... |
-| Week 11 | Loading... | Loading... | Loading... |
-| Week 12 | Loading... | Loading... | Loading... |
-| Week 13 | Loading... | Loading... | Loading... |
-| Week 14 | Loading... | Loading... | Loading... |
-| Week 15 | Loading... | Loading... | Loading... |
-| Week 16 | Loading... | Loading... | Loading... |
-
-
-
-------------------------------------------------------------------------
-
 
 ## 💻 Computer Tools
 
@@ -99,11 +75,186 @@ We will use **Python** with libraries such as **PuLP**, **SciPy**, and **NumPy**
 
 ------------------------------------------------------------------------
 
+## 📚 Course Resources
 
-## 📬 Questions or Concerns?
+| Week | Slides | TD | Solution | Python |
+|------|---------|----|-----------|------------|
+| Week 1 | [*Slides*](https://sothearith-min.quarto.pub/operation-research/#/title-slide) | [*TD*](Slides/TD/TD1/TD1.pdf) | [*Solution*](Slides/TD/TD1/Solution_TD1.pdf) | [*Python*](Slides/TD/TD1/Python_TD1.ipynb)|
+| Week 2 | Loading... | Loading... | Loading... | Loading... |
+| Week 3 | Loading... | Loading... | Loading... | Loading... |
+| Week 4 | Loading... | Loading... | Loading... | Loading... |
+| Week 5 | Loading... | Loading... | Loading... | Loading... |
+| Week 6 | Loading... | Loading... | Loading... | Loading... |
+| Week 7 | Loading... | Loading... | Loading... | Loading... |
+| Week 8 | Loading... | Loading... | Loading... | Loading... |
+| Week 9 | Loading... | Loading... | Loading... | Loading... |
+| Week 10 | Loading... | Loading... | Loading... | Loading... |
+| Week 11 | Loading... | Loading... | Loading... | Loading... |
+| Week 12 | Loading... | Loading... | Loading... | Loading... |
+| Week 13 | Loading... | Loading... | Loading... | Loading... |
+| Week 14 | Loading... | Loading... | Loading... | Loading... |
+| Week 15 | Loading... | Loading... | Loading... | Loading... |
+| Week 16 | Loading... | Loading... | Loading... | Loading... |
 
-Feel free to reach out anytime! 
+
+
+------------------------------------------------------------------------
+
+## 👥 Attendance
+
+
+<iframe 
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2flt-Y8LKV7GP1HPFqwzCn9KwaxzTgOV3JBsB-mXk20yHkuxOJRGm8NvJfwn0CSkYhPqp8Yd-2otM/pubhtml?widget=true&headers=false" 
+    width="100%" 
+    height="800" 
+    frameborder="0" 
+    scrolling="auto">
+</iframe>
+
 
 ------------------------------------------------------------------------
 
 
+
+## 🧮 Multi-TD Participation Dashboard
+
+<script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+<script src="https://unpkg.com/lucide-react/dist/umd/lucide-react.js"></script>
+
+<div id="td-dashboard"></div>
+
+<script type="text/javascript">
+const { useState } = React;
+const { Users, CheckCircle, XCircle } = LucideReact;
+
+// TD data: TD1 real data, TD2 empty
+const tdData = {
+  "TD1": [
+    { no: 1, name: "CHHEANG PHANY", contribute: false, details: "" },
+    { no: 2, name: "CHHOUK PHALTHUNIN", contribute: false, details: "" },
+    { no: 3, name: "DUK PANGARITH", contribute: true, details: "Problem 2" },
+    { no: 4, name: "HEM BELLYDAY", contribute: true, details: "Problem 8" },
+    { no: 5, name: "HOEURN SREYKA", contribute: false, details: "" },
+    { no: 6, name: "HOK LYHOUR", contribute: false, details: "" },
+    { no: 7, name: "HUN SOPHEAK", contribute: true, details: "Problem 5" },
+    { no: 8, name: "KE MANUT", contribute: false, details: "" },
+    { no: 9, name: "KHAY LINA", contribute: false, details: "" },
+    { no: 10, name: "LENG DEVID", contribute: true, details: "Problem 3" },
+    { no: 11, name: "LOT SOKLANG", contribute: true, details: "Problem 6" },
+    { no: 12, name: "NGOUN LYHORNG", contribute: false, details: "" },
+    { no: 13, name: "ORN VANDA", contribute: false, details: "" },
+    { no: 14, name: "PHAL MENGHAK", contribute: true, details: "Problem 7" },
+    { no: 15, name: "SOPHON RACHANA", contribute: true, details: "Problem 4" },
+    { no: 16, name: "SOR RAKSMEY", contribute: false, details: "" },
+    { no: 17, name: "SORNG SEYHA", contribute: false, details: "" },
+    { no: 18, name: "SOU PICHCHOMRONG", contribute: false, details: "" },
+    { no: 19, name: "SROEUN BUNNARITH", contribute: false, details: "" },
+    { no: 20, name: "TAING KORNGMENG", contribute: false, details: "" }
+  ],
+  "TD2": [
+    // Leave empty for now
+  ],
+
+  "TD3": [
+    // Leave empty for now
+  ], 
+
+  "TD4": [
+    // Leave empty for now
+  ]
+};
+
+function TDParticipationDashboard() {
+  const [activeTD, setActiveTD] = useState(Object.keys(tdData)[0]);
+  const [selectedStudent, setSelectedStudent] = useState(null);
+
+  const students = tdData[activeTD];
+
+  const totalStudents = students.length;
+  const participated = students.filter(s => s.contribute).length;
+  const notParticipated = totalStudents - participated;
+  const participationRate = participated > 0 ? ((participated / totalStudents) * 100).toFixed(1) : "0.0";
+
+  const allStudentNames = Array.from(new Set(Object.values(tdData).flat().map(s=>s.name)));
+
+  const getStudentParticipation = (name) => {
+    return Object.keys(tdData).map(td => {
+      const s = tdData[td].find(st => st.name === name);
+      return {
+        td,
+        contribute: s ? s.contribute : false,
+        details: s ? s.details : "-"
+      };
+    });
+  };
+
+  return React.createElement('div', { style:{ fontFamily:'sans-serif', maxWidth:'900px', margin:'0 auto' } },
+    React.createElement('h2', { style:{ textAlign:'center' } }, 'Multi-TD Participation Dashboard'),
+
+    // TD Tabs
+    React.createElement('div', { style:{ display:'flex', gap:'10px', justifyContent:'center', marginBottom:'20px' } },
+      Object.keys(tdData).map(td =>
+        React.createElement('button', { key:td, onClick:()=>setActiveTD(td), style:{ padding:'6px 12px', cursor:'pointer', background: activeTD===td?'#1d4ed8':'#f3f4f6', color: activeTD===td?'white':'black', border:'none', borderRadius:'5px' } }, td)
+      )
+    ),
+
+    // Stats
+    React.createElement('div', { style:{ display:'flex', justifyContent:'center', gap:'20px', flexWrap:'wrap', marginBottom:'10px' } },
+      ['Total Students','Participated','Not Participated','Participation Rate'].map((label,i) => {
+        const value = [totalStudents, participated, notParticipated, participationRate+'%'][i];
+        return React.createElement('div', { key:i, style:{ background:'#f3f4f6', padding:'10px', borderRadius:'8px', minWidth:'120px', textAlign:'center' } }, 
+          React.createElement('p', { style:{ fontSize:'12px', color:'#6b7280' } }, label),
+          React.createElement('p', { style:{ fontSize:'20px', fontWeight:'bold' } }, value)
+        )
+      })
+    ),
+
+    // Table
+    React.createElement('table', { style:{ width:'100%', borderCollapse:'collapse', marginBottom:'20px' } },
+      React.createElement('thead', { style:{ background:'#f9fafb', borderBottom:'2px solid #d1d5db' } }, 
+        React.createElement('tr', null, ['No','Name','Status','Details'].map((h,i)=>React.createElement('th',{ key:i, style:{padding:'6px 10px', textAlign:'left', fontSize:'12px', color:'#6b7280'} }, h)))
+      ),
+      React.createElement('tbody', null, students.map(s => 
+        React.createElement('tr', { key:s.no, style:{ borderBottom:'1px solid #e5e7eb', cursor:'pointer' }, onClick: ()=>setSelectedStudent(s.name) },
+          React.createElement('td', { style:{ padding:'4px 8px' } }, s.no),
+          React.createElement('td', { style:{ padding:'4px 8px', textDecoration:'underline', color:'#1d4ed8' } }, s.name),
+          React.createElement('td', { style:{ padding:'4px 8px' } }, s.contribute ? '✅ Participated' : '❌ None'),
+          React.createElement('td', { style:{ padding:'4px 8px' } }, s.details || '-')
+        )
+      ))
+    ),
+
+    // Modal
+    selectedStudent && React.createElement('div', {
+      style:{
+        position:'fixed', top:0, left:0, width:'100%', height:'100%', background:'rgba(0,0,0,0.5)', display:'flex', justifyContent:'center', alignItems:'center'
+      },
+      onClick: ()=>setSelectedStudent(null)
+    },
+      React.createElement('div', {
+        style:{ background:'white', padding:'20px', borderRadius:'10px', minWidth:'300px', textAlign:'center', position:'relative' },
+        onClick: e=>e.stopPropagation()
+      },
+        React.createElement('h3', null, selectedStudent),
+        React.createElement('p', { style:{ fontWeight:'bold' } }, `Total TDs Participated: ${getStudentParticipation(selectedStudent).filter(s=>s.contribute).length} / ${Object.keys(tdData).length}`),
+        React.createElement('table', { style:{ width:'100%', marginTop:'10px', borderCollapse:'collapse' } },
+          React.createElement('thead', { style:{ background:'#f3f4f6', borderBottom:'1px solid #d1d5db' } },
+            React.createElement('tr', null, ['TD','Status','Details'].map((h,i)=>React.createElement('th',{ key:i, style:{ padding:'4px', fontSize:'12px', color:'#6b7280' } }, h)))
+          ),
+          React.createElement('tbody', null, getStudentParticipation(selectedStudent).map((s,i)=>
+            React.createElement('tr', { key:i, style:{ borderBottom:'1px solid #e5e7eb' } },
+              React.createElement('td', { style:{ padding:'4px' } }, s.td),
+              React.createElement('td', { style:{ padding:'4px' } }, s.contribute ? '✅ Participated' : '❌ None'),
+              React.createElement('td', { style:{ padding:'4px' } }, s.details)
+            )
+          ))
+        )
+      )
+    )
+  );
+}
+
+const root = ReactDOM.createRoot(document.getElementById('td-dashboard'));
+root.render(React.createElement(TDParticipationDashboard));
+</script>
