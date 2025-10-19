@@ -4,7 +4,7 @@ title-block-banner: true
 title-block-banner-color: "#e5ffe5ff"
 format:
   html:
-    theme: cosmo
+    theme: [defualt, custom.scss]
     css: styles.css
     toc: true
     toc-depth: 2
