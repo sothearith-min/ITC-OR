@@ -80,8 +80,8 @@ We will use **Python** with libraries such as **PuLP**, **SciPy**, and **NumPy**
 | Week | Slides | TD | Solution | Python |
 |------|---------|----|-----------|------------|
 | Week 1 | [*Slides*](https://sothearith-min.quarto.pub/operation-research/#/title-slide) | [*TD*](Slides/TD/TD1/TD1.pdf) | [*Solution*](Slides/TD/TD1/Solution_TD1.pdf) | [*Python*](Slides/TD/TD1/Python_TD1.ipynb)|
-| Week 2 | Loading... | Loading... | Loading... | Loading... |
-| Week 3 | Loading... | Loading... | Loading... | Loading... |
+| Week 2 |  |  | *Holiday* |  |
+| Week 3 | [*Slides*](https://sothearith-min.quarto.pub/operation-research-week2/#/title-slide)|  [*TD*](Slides/TD/TD2/TD2.pdf) | Loading... | Loading... |
 | Week 4 | Loading... | Loading... | Loading... | Loading... |
 | Week 5 | Loading... | Loading... | Loading... | Loading... |
 | Week 6 | Loading... | Loading... | Loading... | Loading... |
