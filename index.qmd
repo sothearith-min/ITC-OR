@@ -84,7 +84,7 @@ We will use **Python** with libraries such as **PuLP**, **SciPy**, and **NumPy**
 | Week 4 | [*Slides*](https://sothearith-min.quarto.pub/operation-research-e7ba/#/title-slide) | [*TD*](Slides/TD/TD3/TD3.pdf)  | Loading... | Loading... |
 | Week 5 | [*Slides*](https://sothearith-min.quarto.pub/optimality-test-for-transportation-problem/#/title-slide) | [*TD*](Slides/TD/TD4/TD4.pdf) | Loading... | Loading... |
 | Week 6 | [*Slides*](https://sothearith-min.quarto.pub/advanced_topic/#/title-slide) | [*TD*](Slides/TD/TD5/TD5.pdf)| Loading... | Loading... |
-| Week 7 | Loading... | Loading... | Loading... | Loading... |
+| Week 7 | [*Slides*](https://sothearith-min.quarto.pub/assignment_problem_slides/#/) | [*TD*](Slides/TD/TD6/TD6.pdf) | Loading... | Loading... |
 | Week 8 | Loading... | Loading... | Loading... | Loading... |
 | Week 9 | Loading... | Loading... | Loading... | Loading... |
 | Week 10 | Loading... | Loading... | Loading... | Loading... |
