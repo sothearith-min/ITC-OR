@@ -87,7 +87,7 @@ We will use **Python** with libraries such as **PuLP**, **SciPy**, and **NumPy**
 | Week 7 | [*Slides*](https://sothearith-min.quarto.pub/assignmentporblem/#/) | [*TD*](Slides/TD/TD6/TD6.pdf) | Loading... | Loading... |
 | Week 8 | [*Slides*](https://sothearith-min.quarto.pub/assignment_problem_slides/#/)|[*TD*](Slides/TD/TD7/TD7.pdf) | Loading... | Loading... |
 | Week 9 | ***MIDTERM*** | - | - |- |
-| Week 10 | Loading... | Loading... | Loading... | Loading... |
+| Week 10 | [*Slides*](https://sothearith-min.quarto.pub/multiple-machin-sequncing/#/)|[*TD*](Slides/TD/TD8/TD8.pdf) | Loading... | Loading... |
 | Week 11 | Loading... | Loading... | Loading... | Loading... |
 | Week 12 | Loading... | Loading... | Loading... | Loading... |
 | Week 13 | Loading... | Loading... | Loading... | Loading... |
