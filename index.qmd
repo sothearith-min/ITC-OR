@@ -90,7 +90,7 @@ We will use **Python** with libraries such as **PuLP**, **SciPy**, and **NumPy**
 | Week 10 | [*Slides*](https://sothearith-min.quarto.pub/multiple-machin-sequncing/#/)|[*TD*](Slides/TD/TD8/TD8.pdf) | Loading... | Loading... |
 | Week 11 | [**Slides**](https://sothearith-min.quarto.pub/jobshop/#/) | Loading... | Loading... | Loading... |
 | Week 12 | [*Slides*](https://sothearith-min.quarto.pub/queing/#/) | [*TD*](Slides/TD/TD9/TD9.pdf) | Loading... | Loading... |
-| Week 13 | Loading... | Loading... | Loading... | Loading... |
+| Week 13 | [**Game Theory**](https://sothearith-min.quarto.pub/game_theory/#/) | [*TD*](Slides/TD/TD10/TD10.pdf) | Loading... | Loading... |
 | Week 14 | Loading... | Loading... | Loading... | Loading... |
 | Week 15 | Loading... | Loading... | Loading... | Loading... |
 | Week 16 | Loading... | Loading... | Loading... | Loading... |
